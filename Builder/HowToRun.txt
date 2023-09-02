@@ -1,0 +1,2 @@
+- g++ -o builder  Builder.cpp
+- builder.exe
