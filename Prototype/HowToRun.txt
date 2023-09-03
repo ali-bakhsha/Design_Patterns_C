@@ -1,0 +1,2 @@
+g++ -o prototype PrototypeDesignPattern.cpp
+prototype.exe
